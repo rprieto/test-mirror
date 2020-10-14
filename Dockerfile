@@ -1,2 +1,2 @@
 WORKDIR /dist
-ADD .
+ADD site .
